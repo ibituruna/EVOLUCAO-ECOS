@@ -4,7 +4,7 @@ Autor: [Emanuel Coutinho](https://github.com/emanuelcoutinho)
 
 ## Descrição
 
-Esta pesquisa corresponde ao trabalho de mestrado do aluno Francisco Victor da Silva Pinheiro, do zzzzzz (PCOMP), da Universidade Federal do Ceará, Campus Quixadá, orientada pelo Prof. Emanuel Coutinho.
+Esta pesquisa corresponde ao trabalho de mestrado do aluno Francisco Victor da Silva Pinheiro, do Programa de Pós-Graduação em Computação (PCOMP), da Universidade Federal do Ceará, Campus Quixadá, orientada pelo Prof. Emanuel Coutinho.
 RESUMO....
 
 ## Objetivo
