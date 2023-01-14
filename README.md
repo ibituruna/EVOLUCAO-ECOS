@@ -1,7 +1,7 @@
 # Pesquisa sobre Evolução em Ecossistemas de Software - Universidade Federal do Ceará - Campus Quixadá
 
-Autor: 
-[Emanuel Coutinho](https://github.com/emanuelcoutinho)
+Autores: 
+[Emanuel Coutinho](https://github.com/emanuelcoutinho) e
 [Victor Pinheiro](https://github.com/pinheirovictor)
 
 
